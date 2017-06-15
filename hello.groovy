@@ -1,1 +1,1 @@
-prntln 'Hello world'
+println 'Hello world'
